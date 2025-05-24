@@ -1,12 +1,13 @@
-name = "zabih ullah"
-age = 20
-age1 = age 
+name1 = "zabih"
+name2 = 'zabihullah'
+name3  = "zabihkhan"
+price = 28.44
+age = 19
 
-
-
-print("my name is :",name)
-
-print("my age is :",age1)
-
+print(type(name1))
+print(type(name2))
+print(type(name3))
+print(type(price))
+print(type(age))
 
 
