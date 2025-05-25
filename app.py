@@ -1,5 +1,3 @@
-# 
-
 # sum is python
 
 # a = 50
