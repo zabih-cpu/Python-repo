@@ -1,11 +1,11 @@
 # sum is python
-
 # a = 50
 # b = 20
 # sum = a+b
 # print("sum of a and b is :",sum)
 
-# arithmetic operater
+
+# arithmetic operator
 # a = 5
 # b = 4
 # print(a+b)
@@ -15,8 +15,8 @@
 # # print(a % b) use for reminder
 
 
-# relational/comparison operater
 
+# relational/comparison operator
 # a = 40
 # b = 10
 # print(a == b)
@@ -26,8 +26,8 @@
 # print(a <= b)
 # print(a >= b)
 
-#assignment operater 
 
+#assignment operator 
 # num = 10
 # num += 20
 # num -= 20
@@ -35,5 +35,18 @@
 # num /= 20
 # num %= 20
 # print(num)
+
  
+#logical operator
+# val1 = True
+# val2 = False
+# print(val1 and val2) beause both are not the same(False) 
+# print(val1 or val2)  beause one is true (True)
+# print(not val2) (not will always give opsite val)so its is false
+
+
+
+
+
+
 
