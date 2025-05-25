@@ -8,4 +8,4 @@ current status : student
 <br>
 <hr>
 date : 5/25/2025
-lerning varaible and data type of python 
+lerning variable and data type of python 
