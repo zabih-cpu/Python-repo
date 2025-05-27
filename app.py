@@ -44,8 +44,24 @@
 # print(val1 or val2)  beause one is true (True)
 # print(not val2) (not will always give opsite val)so its is false
 
+# type conversion OR type casting 
+# a = int("3")
+# b = 4.28
 
+# sum = a+b
+# print(type(a))
+# print(type(b))
+# print(sum)
 
+# Input in python 
+
+name = input("enter your name :")
+age = float(input("enter your age :"))
+marks = int (input("enter your marks :"))
+
+print(name)
+print(type(age),age)
+print(type(marks),marks)
 
 
 
