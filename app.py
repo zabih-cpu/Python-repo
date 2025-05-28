@@ -81,6 +81,45 @@
 
 # print("average is :", (float1 * float2)/2)
 
+# pracice question 
+
+# first = int(input("enter a number :"))
+# second = int(input("enter a number :"))
+
+# print(first >= second)
+
+# LECTURE:2
+# string and conditional statment 
+# CONCATENATION 
+
+# str1 = "my name is zabihullah"
+# str2 = "i live in rustam"
+# finalstr = str1 + str2
+# print(finalstr)
+
+
+# FINDing lenght of STR
+
+# str1 = "zabihullah"
+# print(len(str1))
+# str2 = "apnacollage"
+# print(len(str2))
+# print(str1)
+# print(str2)
+# final = str1 + str2 
+# print ( final)
+
+# slicing in python
+# str = "zabih ullah"
+# print(str[ 2 :7])
+
+# negative slicing in python
+# str = "zabihkhan"
+# print(str[-5 : -1])
+
+
+
+
 
 
 
