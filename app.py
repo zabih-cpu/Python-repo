@@ -42,7 +42,7 @@
 # val2 = False
 # print(val1 and val2) beause both are not the same(False) 
 # print(val1 or val2)  beause one is true (True)
-# print(not val2) (not will always give opsite val)so its is false
+# print(val1 not val2) (not will always give opsite ANS)so its is false
 
 # type conversion OR type casting 
 # a = int("3")
@@ -116,6 +116,37 @@
 # negative slicing in python
 # str = "zabihkhan"
 # print(str[-5 : -1])
+
+# string function in Python
+
+# str = "i am studing python from apna collage"
+# print(str.endswith("apna collage")) return true if string end with substring
+# print(str.capitalize()) its capitalize first letter of string
+# print(str.replace( "i am studing python from apna collage"," i am a coder" )) replace all occurrence of old with new
+# print(str.find("t")) return 1st index of first world
+# print(str.count("m")) count the accurrence of sub str in string
+
+
+# practice question(write a parogram to input user first name and print its  length) 
+# name = input("Enter your name :")
+# print(name)
+# print(len(name))
+
+# practce question(write a parogram to find the letter of $ in string)
+# find =" hi$, my name$ is zabih$ "
+# print(find.count("$")) output (3) 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
