@@ -123,7 +123,7 @@
 # print(str.endswith("apna collage")) return true if string end with substring
 # print(str.capitalize()) its capitalize first letter of string
 # print(str.replace( "i am studing python from apna collage"," i am a coder" )) replace all occurrence of old with new
-# print(str.find("t")) return 1st index of first world
+# print(str.find("t")) return 1st index of first world and tell you the index of letter 
 # print(str.count("m")) count the accurrence of sub str in string
 
 
@@ -137,16 +137,60 @@
 # print(find.count("$")) output (3) 
 
 
+# conditional satatment 
+
+# light = "yellow"
+
+# if(light == "red"):
+#     print("stop")
+# elif(light == "green"):
+#     print("go")
+# elif(light == "yellow"):
+#     print("waiting")
+
+# age = 20
+# if(age >= 18):
+#     print("can vote")
+#     print("can also drive and applay for licens ")
+# elif(age <= 18):
+#     print("you are under age and can not vote and applay for licens")
+
+# num = 5 
+
+# if(num > 2):
+    # print("grater than 2")
+# if(num > 3):
+#     print("grater than 3") 
+# elif(num > 3 ):
+    # print("grater than 3")
+# (the moment if is given false then elif will run and if (if statment) are true then it will not give false)      
+
+# if-elif-else
+
+# light = ""
+
+# if(light == "red"):
+#     print("stop")
+# elif(light == "green"):
+#     print("go")
+# elif(light == "yellow"):
+#     print("looking")
+# else:
+#     print("system is broken")
 
 
+# # pratice question (find the grade of student)
+# marks = 90
 
-
-
-
-
-
-
-
+# if(marks >= 90):
+#     grade = "A"
+# elif(marks >= 80 and marks < 90):
+#     grade = "B"
+# elif(marks >= 70 and marks < 80):
+#     grade = "C"
+# elif(marks >= 60 and marks < 70):
+#     grade = "D"
+# print(grade)
 
 
 
