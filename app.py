@@ -180,7 +180,7 @@
 
 
 # # pratice question (find the grade of student)
-# marks = 90
+# marks = int(input('Enter marks :'))
 
 # if(marks >= 90):
 #     grade = "A"
@@ -190,11 +190,50 @@
 #     grade = "C"
 # elif(marks >= 60 and marks < 70):
 #     grade = "D"
-# print(grade)
+# else:
+#     grade = "fail"
+# print("grade of student is :",grade)
+
+# nesting in funtion (write statment OR function  in one another)
+# age = int(input("enter age :"))
+# if(age >= 18):
+#     if(age >= 80):
+#         print("can not drive")
+#     else:
+#          print("can dive")
+# else:
+#     print("can not drive")
+# 
+
+# practice question (write a parograme to check if the number from user is odd are even)
+# num = int(input("Enter a number :"))
+# if(num%2 == 0 ):
+#     print("this is Even number")
+# else:
+#     print("this is Odd number")
 
 
 
+# pactice question (WAP to find the greatest of 3 number enter by the user)
+# first = int(input("Enter number :"))
+# second =int(input("Enter number :"))
+# third = int(input("Enter number :"))
+# if (first >=second and first  >= third):
+#     print("first number is greater")
+# elif(second >= third):
+#     print("Second number is greater")
+# else:
+#     print("Third number is greater")
 
 
+# practice question (write a parograme to check if the number is multipule of 7)
+
+# multi = int(input('Enter a number :'))
+
+# if(multi % 7 == 0 ):
+#     print("number is multipul of : 7")
+# else:
+#     print("not multipiule of : 7")
+    
 
 
