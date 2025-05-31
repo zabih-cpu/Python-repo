@@ -235,9 +235,15 @@
 # else:
 #     print("not multipiule of : 7")
     
+# list in Python
 
+marks = [55,65,78,44,50]
+print(marks[4])
+print(type(marks))
+print(len(marks))
 
-
+student = ["zabih",70, 20, "rustam"]
+print(student)
 
 
 
