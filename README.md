@@ -12,4 +12,7 @@ lerning variable and data type of python
 <br> 
 <hr>
 date : 5/27/2025
-lerning string and conditional statment
+lerning string and conditional statment of python
+<br>
+<hr>
+lerning list and tuple python
