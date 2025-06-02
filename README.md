@@ -15,5 +15,4 @@ date : 5/27/2025
 lerning string and conditional statment of python
 <br>
 <hr>
-<br>
 lerning list and tuple python

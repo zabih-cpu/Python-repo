@@ -295,7 +295,37 @@
 # print(list3)
 
 # pratice question (write a parograme to count the number of student with a grade in the following tuple)
-grade = ["C","D","A","A","B","A"]
+# grade = ["C","D","A","A","B","A"]
 # print(grade.count("B"))   
-grade.sort()
-print(grade)
+# grade.sort()
+# print(grade)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
