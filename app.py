@@ -237,16 +237,65 @@
     
 # list in Python
 
-marks = [55,65,78,44,50]
-print(marks[4])
-print(type(marks))
-print(len(marks))
+# marks = [55,65,78,44,50]
+# print(marks[4])
+# print(type(marks))
+# print(len(marks))
 
-student = ["zabih",70, 20, "rustam"]
-print(student)
+# student = ["zabih",70, 20, "rustam"]
+# print(student)
+
+# sliceing in python
+# num = [44,55,44,23,30,67,78,89,90,12,34,20]
+# print(num[ 2:6 ])
+
+# list method 
+# list = [ 2,4,5,1,3,5,7,]
+# list.append(23)
+# print(list)
+
+# list = [3,2,1,5,4,6]
+# list.sort()
+# list.sort(reverse=True)
+# list.reverse()
+# list.insert(2,10)
+# list.remove(2)
+# list.pop(4)
+# print(list)
+
+# Tuples in python(a bulit in type that help us write immutable code ) 
+# tup = (22,34,12,23)
+# print(tup)
+# print(type(tup))
+
+# # pratice question (warite a parogram to ask the user name their 3 favorite videogames )
+# games = []
+# gam1 = input("enter name of favorite game :")
+# gam2 = input("enter name of favorite game :")
+# gam3 = input("enter name of favorite game :")
+# games.append(gam1)
+# games.append(gam2)
+# games.append(gam3)
+# print(games)
 
 
 
 
+# practce question (write a parogram to check if the list contain a palindrome element )
+# TO check if the value is palindrome 
+# list1 = [1,2,3,2,1]
+# copy_list1 = list1.copy()
+# copy_list1.reverse()
+# if(copy_list1 == list1):
+#     print("palandrome")
+# else:
+#     print("Not palandrome") 
+# list3 = [1,2,3,2,1]
+# list3.reverse()
+# print(list3)
 
-
+# pratice question (write a parograme to count the number of student with a grade in the following tuple)
+grade = ["C","D","A","A","B","A"]
+# print(grade.count("B"))   
+grade.sort()
+print(grade)
