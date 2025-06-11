@@ -321,19 +321,19 @@
 
 # lecture4 dictionary and set 
 
-info = {
-    "name" : "zabihullah",
-    "cgpa" : 3.2,
-    "subject" : ("python","c","javascript"),
-    "topics" : ["dicionary","set"],
-    "lerning" : "coding"
-    }
+# info = {
+#     "name" : "zabihullah",
+#     "cgpa" : 3.2,
+#     "subject" : ("python","c","javascript"),
+#     "topics" : ["dicionary","set"],
+#     "lerning" : "coding"
+#     }
 
-info["surname"] = "khan"
-print(type(info))
-print(info["name"])
-print(info['subject'])
-print(info)
+# info["surname"] = "khan"
+# print(type(info))
+# print(info["name"])
+# print(info['subject'])
+# print(info)
 
 
 

@@ -13,6 +13,11 @@ lerning variable and data type of python
 <hr>
 date : 5/27/2025
 lerning string and conditional statment of python
-<hr>
 <br>
+<hr>
+date : 5/29/2025 
 lerning list and tuple python
+<br>
+<hr>
+date : 6/1/2025
+lerning dictionary and list
