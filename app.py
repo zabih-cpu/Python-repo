@@ -278,9 +278,6 @@
 # games.append(gam3)
 # print(games)
 
-
-
-
 # practce question (write a parogram to check if the list contain a palindrome element )
 # TO check if the value is palindrome 
 # list1 = [1,2,3,2,1]
@@ -300,17 +297,43 @@
 # grade.sort()
 # print(grade)
 
+# games = []
+# game1 = input("Enter your favorate game name: ")
+# game2 = input("Enter your favorate game name: ")
+# game3 = input("Enter your favorate game name: ")
+# games.append(game1)
+# games.append(game2)
+# games.append(game3)
+# print(game)
 
+# list1 = [1,2,3,5,3,2,1]
+# copy_list1 = list1.copy()
+# copy_list1.reverse()
+# if(copy_list1 == list1):
+#     print("palindrome")
+# else:
+#     print("Non palindrome")
 
+# grade = ["C","D","A","A","B","B","A"]
+#  print(grade.count("B"))
+# print(grade.sort())
+# print(grade)
 
+# lecture4 dictionary and set 
 
+info = {
+    "name" : "zabihullah",
+    "cgpa" : 3.2,
+    "subject" : ("python","c","javascript"),
+    "topics" : ["dicionary","set"],
+    "lerning" : "coding"
+    }
 
-
-
-
-
-
-
+info["surname"] = "khan"
+print(type(info))
+print(info["name"])
+print(info['subject'])
+print(info)
 
 
 
