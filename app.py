@@ -336,19 +336,91 @@
 # print(info)
 
 
+# nesting and method in python
+
+# zabih = {
+#     "name" : "zabih ullah",
+#     "lerning" : {
+#         "python": 2025,
+#          "javascript": 2025,
+#          "html and css " : 2024,             
+#     }
+# }
+
+# print(zabih.keys()) return keys
+# print(zabih.values()) return values
+# print(zabih.items()) return all (key,values) paris as tuple
+# new_dict = {'village' : ' rustam '}
+# new_dict = {'hobies' : {"sports":"criket",
+#                         'gaming':'RDR2'}}
+# zabih.update(new_dict)
+# zabih.update(new_dict)
+# print(zabih)
 
 
+# set and set method in python 
+
+# set  = set()
+# set.add(1)
+# set.add(2)
+# set.add('zabih')
+# set.add('mardan')
+# set.add('peshawar')
+# set.add(1011)
+# set.pop()
+# set.clear()
+# set.remove(1)
+# print(set)
+# print(len(set))
 
 
+# union and intersection method in python
+# nums1 = {1,2,3,4}
+# nums2 = {1,2,5,6}
+# print(nums1.intersection(nums2))
+# print(nums1.union(nums2))
+
+# prictice question(store word meaning in python dictionary)
+
+# store = {
+#     'tabile' :[ 'A pice of furniture','list of factics and figure'],
+#     'cat': 'a small animal'
+# }
+# print(store)
 
 
+# practice qustion (You are given list of subject for student,assume one class room is requaird for one student ,how many class room are needed by all student )
+
+# subject = {
+    
+#     'python','java','c++','python','javascript','java','python','java','c++','c'
+
+#     }
+# print(subject)
+# print(len(subject))
+
+# practice question (write a parograme to enter marks of 3 subject frome the user and stored it in dictionry )
+
+# marks = {}
+
+# z = input("Enter phy :")
+# marks.update({'phy' : z })
+
+# z = input('Enter math :' )
+# marks.update({'math ' : z})
+
+# z = input('Enter Eng :')
+# marks.update({'Eng ' : z}) 
+
+# print(marks)
 
 
-
-
-
-
-
+# practice question 
+# values = {
+#     ("float",9.0),
+#     ("int",9)
+# }
+# print(values)
 
 
 
